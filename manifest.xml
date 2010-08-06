@@ -1,0 +1,12 @@
+<package>
+  <description brief="fawkes_lua">
+    Lua modules imported and synced with Fawkes (http://www.fawkesrobotics.org)
+  </description>
+  <author>Tim Niemueller</author>
+  <license>GPLv2+</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/fawkes_lua</url>
+  <depend package="roslua"/>
+</package>
+
+
