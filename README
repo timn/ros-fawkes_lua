@@ -1,0 +1,17 @@
+
+fawkes_lua: Fawkes Lua code for ROS
+===================================
+
+This package provides the Lua utility classes taken from the Fawkes source
+tree. The goal of this package is to allow for a free flow of this Lua code
+between Fawkes and ROS without the need for platform-specific changes on
+code transfer. Keep this in mind when changing these files.
+
+Requirements
+------------
+The package contains rather generic Lua code and has no specific requirements.
+
+Documentation
+-------------
+Documentation has been generated using luadoc and is available in the doc
+subdirectory.
